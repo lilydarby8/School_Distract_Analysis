@@ -53,6 +53,7 @@ In both the math and reading scores by grade, the 9th grade column for Thomas Hi
 
 The $631-645 spending range is the only spending range that varies since that is the spending range of Thomas High School. The average reading and math scores do not chnage but the percentages caclulating passing do have a noticable change.
 ![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179659556)
+![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179659651)
 
 
 - How does replacing the ninth-grade scores affect scores by school type?
