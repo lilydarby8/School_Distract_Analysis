@@ -46,7 +46,8 @@ The $631-644 spending range is the only spending range that varies. It is a very
 
 The replaced ninth-grade scores do not affect the school type summary.
 
-##Summary
+## Summary
+
 In conclusion the updated School District Analysis made slight changes in the data outcome but provided the School Board with a more accurate analysis of the schools and their students’ grades. A few differences between the two analyses’ are below:
 
 The district summary numbers either stayed the same or had a .02 or .03 difference to the averages and percent passing columns.
