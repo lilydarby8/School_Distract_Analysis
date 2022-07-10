@@ -47,6 +47,7 @@ In the Percent Overall Passing the average percentage was 73% and Thomas High Sc
 In both the math and reading scores by grade, the 9th grade column for Thomas High School has the “NaN” value to represent 9th grade. ![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179658814)
 ![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179658957)
 ![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179659058)
+![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179659136)
 
 - How does replacing the ninth-grade scores affect scores by school spending? 
 
