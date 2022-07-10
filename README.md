@@ -16,6 +16,7 @@ The two district summaries have small differences. The only categories affected,
 
 *The first link will be from the original analysis and second link will be from the updated analysis*
 ![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179657024)
+![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179657082)
 
 
  
