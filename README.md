@@ -28,6 +28,7 @@ The school summary was noticeably affected in the percentage columns of the data
 “Overall Passing went from 91% to 65%.
 The significant changes may be due to the fact how each value was calculated. When the average was taken it only divided by how many actual values were recorded whereas with the percentage it was divided by how many students were recorded regardless of if the student had a grade inputted or not. However, when the 10th through 12th grades were added to the school summary the percentages became very close in number to the original analysis. 
 ![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179658141)
+![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179658526)
 
 
 - How does replacing the 9th graders math and reading scores affect Thomas High School’s performance relative to other schools?
