@@ -14,7 +14,7 @@ The purpose of this analysis is to provide the school board with the accurate sc
 
 The two district summaries have small differences. The only categories affected, after the 9th grade scores from Thomas High School were replaced with NaNs, were the average scores, percent passing, and overall passing. The numbers only had a .03 or .02 difference, with the average reading score staying the same. 
 
-*The images on the right will be from the original analysis and the images on the left will be from the updated analysis*
+*The first link will be from the original analysis and second link will be from the updated analysis*
 ![This is an image](https://github.com/lilydarby8/School_District_Analysis/issues/1#issuecomment-1179657024)
 
 
