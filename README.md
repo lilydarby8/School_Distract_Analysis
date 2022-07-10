@@ -23,7 +23,7 @@ The school summary was noticeably affected in the percentage columns of the data
 The significant changes may be due to the fact how each value was calculated. When the average was taken it only divided by how many actual values were recorded whereas with the percentage it was divided by how many students were recorded regardless of if the student had a grade inputted or not. However, when the 10th through 12th grades were added to the school summary the percentages became very close in number to the original analysis. 
 
 
-- How does replacing the 9th graders math and reading scores affect Thomas High School’s performance relative to other schools
+- How does replacing the 9th graders math and reading scores affect Thomas High School’s performance relative to other schools?
 
 Thomas High School did very well with their score and their percent of passing. They were above average in each category
 In math scores the average was 80.4 and Thomas High School had an average of 83.4.
@@ -44,7 +44,7 @@ The $631-644 spending range is the only spending range that varies. It is a very
 
 - How does replacing the ninth-grade scores affect scores by school type?
 
-The replaced ninth-grade score do not affect the school type summary.
+The replaced ninth-grade scores do not affect the school type summary.
 
 ##Summary
 In conclusion the updated School District Analysis made slight changes in the data outcome but provided the School Board with a more accurate analysis of the schools and their students’ grades. A few differences between the two analyses’ are below:
